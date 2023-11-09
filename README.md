@@ -1,5 +1,5 @@
 # shrimpInfectionDetection
-Here is a summary of the shrimp disease detection project in a GitHub readme format:
+Here is a summary of the shrimp disease detection project:
 
 # Shrimp Disease Detection
 
