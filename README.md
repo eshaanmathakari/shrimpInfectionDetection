@@ -31,7 +31,9 @@ Shrimp infections can negatively impact breeding quality shrimp and be a health 
 
 - Image augmentation helped create a larger dataset for improved model training
 - Convolutional neural networks were effective for detecting signs of disease in shrimp images
-- The EfficientNetB0 architecture provided the highest accuracy for this problem 
+- The EfficientNetB0 architecture provided the highest accuracy for this problem
+<img width="435" alt="Screenshot 2023-11-09 at 12 57 32" src="https://github.com/eshaanmathakari/shrimpInfectionDetection/assets/142958648/4ea5ae33-4570-41bc-acc4-d079b2e7ebb3">
+<img width="452" alt="Screenshot 2023-11-09 at 12 56 38" src="https://github.com/eshaanmathakari/shrimpInfectionDetection/assets/142958648/6c3f6683-4747-47be-bf70-f090bb1f5590">
 
 ## Conclusion
 
